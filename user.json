@@ -1,0 +1,27 @@
+[
+    {
+        "fname":"Harish",
+        "lname":"Chandra",
+        "age":"19"
+    },
+    {
+        "fname":"Gopal",
+        "lname":"KC",
+        "age":"42"
+    },
+    {
+        "fname":"Nitesh",
+        "lname":"Bhatta",
+        "age":"45"
+    },
+    {
+        "fname":"Gobind",
+        "lname":"Kumar",
+        "age":"24"
+    },
+    {
+        "fname":"Kiran",
+        "lname":"Sharma",
+        "age":"26"
+    }
+]
